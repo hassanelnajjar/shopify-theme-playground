@@ -8,4 +8,5 @@
 ehthumbs.db
 Thumbs.db
 
-./node_modules/
+#  Exclude the following folder
+!node_modules/
